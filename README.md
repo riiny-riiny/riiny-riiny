@@ -10,7 +10,7 @@ Currently shipping production code and hate systems that suck.
 
 Working with Python, TypeScript, Next.js, React, Node.js, and Swift. 
 
-Reach me at https://linktr.ee/riiny.riiny
+Reach me at https://www.linkedin.com/in/riiny-giir-a1b29b213/
 
 
 
